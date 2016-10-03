@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="add_button">Add</string>
+    <string name="save_button">Save</string>
+    <string name="title_hint">Title</string>
+    <string name="contents_hint">Contents</string>
+    <string name="error_message">Oops! Something went wrong.</string>
+    <string name="NOTE_ID_KEY">com.dasyel.dasyelwillems_pset4.NOTE_ID</string>
+</resources>
